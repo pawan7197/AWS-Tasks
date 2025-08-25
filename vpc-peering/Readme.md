@@ -162,8 +162,61 @@ Peering connections are non-transitive (works only between two VPCs directly pee
 **Routing**
 
 ## Images:
+## 1.IBM-VPC-STACK:
 
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/31ca76e4-7d99-452d-8596-89152d9eadce" />
 
+## 2.VPCs
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/4c00471c-1962-408c-90d7-197d85f6d8ed" />
+
+## 3.AJA VPC
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/ba5d801d-eaa5-44a1-b2ff-bf5c276d3d66" />
+
+## 4. IBM VPC
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/05e7b890-11a1-4e8c-9220-b2634a97efe5" />
+
+## 5. SUBNETS
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/2e802ddf-3436-4450-9e56-144d5f5b1beb" />
+
+## 6. ROUTE TABLES
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/2234029d-400b-412a-b1b6-e07e1c2d9553" />
+
+## 7. INTERNET GATEWAYS
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/61375994-a267-43e3-852c-15c768468535" />
+
+## 8. PEERING CONNECTION
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/2f9cdcd5-a23f-42f4-b266-934d8038faa2" />
+
+## 9. ACCEPT VPC REQUEST
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/29626a6c-3209-44f6-8bff-3be284d34f78" />
+
+## 10. VPC PEERING-STATUS-ACTIVE
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/e11ccced-c91f-4064-857c-ba8c913718c5" />
+
+## 11. IBM-DB-RT
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/07989e57-3a12-4733-948e-7b53814fc62d" />
+
+## 12. AJA-DB-RT
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/9ee30dea-0693-4322-83cf-cc24f5366769" />
+
+## 13. VPC-FILE-PERMISSIONS
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/26595cc9-e35a-4310-8c2a-fed67e7beec2" />
+
+## 14. VPC-PEERING-OUTPUT
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/cdff0e8f-c019-493c-8b7b-250ed84ea6bc" />
 ## Clean Up:
 
 To avoid unnecessary charges:
