@@ -143,6 +143,50 @@ Expected: Success via VPC Interface Endpoint.
 
 ## Images:
 
+## 1.Cloud Formation
+
+<img width="1600" height="698" alt="Image" src="https://github.com/user-attachments/assets/5ffe97d4-e4b9-4c6b-9c96-2a4e9a701809" />
+
+## 2.VPC-Endpoint
+
+<img width="1599" height="738" alt="VPC END" src="https://github.com/user-attachments/assets/522fd47c-d9b7-4f05-9bdb-81b696fe22a6" />
+
+## 3. PUBLIC Subnet
+
+<img width="1591" height="731" alt="PUB SUBNET" src="https://github.com/user-attachments/assets/030ca996-5edd-4286-8116-c6606a5ecacc" />
+
+## 4.PRIVATE Subnet
+
+<img width="1595" height="725" alt="PVT SUBNET" src="https://github.com/user-attachments/assets/11b817e3-8344-498c-bd7d-6ff63e5b3c59" />
+
+## 5.Route Tables
+
+<img width="1581" height="716" alt="ROUTE TABLES" src="https://github.com/user-attachments/assets/5845721b-0f0a-4469-8e8b-2ead44881bd5" />
+
+## 6.Internet Gateways
+
+<img width="1599" height="746" alt="INTERNET GATEWAYS" src="https://github.com/user-attachments/assets/33c94814-8deb-48cd-bb10-d12bc7d15c05" />
+
+## 7.Endpoint
+
+<img width="1599" height="716" alt="ENDPOINT" src="https://github.com/user-attachments/assets/1c2f121a-eac3-462c-bbd8-0c6ac47c0553" />
+
+## 8.EC2 Public
+
+<img width="1592" height="708" alt="EC2-PUBLIC" src="https://github.com/user-attachments/assets/ed8b397f-9311-4292-a42f-15a016de20e5" />
+
+## 9.EC2 Public output
+
+<img width="799" height="198" alt="EC2-PUBLIC OUTPUT" src="https://github.com/user-attachments/assets/214e63c5-d7e6-4d4c-8e02-8484587a3b13" />
+
+## 10.Permission for PEM File
+<img width="1016" height="431" alt="PERMISSIONS FOR PEMFILE" src="https://github.com/user-attachments/assets/889b484f-1cf5-4dc4-8276-543975a5ba2d" />
+
+
+
+
+
+
 
 ## Cleanup (Optional)
 To avoid unnecessary costs:
