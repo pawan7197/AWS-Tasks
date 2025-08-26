@@ -182,6 +182,16 @@ Expected: Success via VPC Interface Endpoint.
 ## 10.Permission for PEM File
 <img width="1016" height="431" alt="PERMISSIONS FOR PEMFILE" src="https://github.com/user-attachments/assets/889b484f-1cf5-4dc4-8276-543975a5ba2d" />
 
+## 11.Permissions given to PEM File
+
+<img width="991" height="811" alt="PERMISSION GIVEN TO PEM" src="https://github.com/user-attachments/assets/f32bdb60-f6c7-4702-a1e6-9498de2c29a9" />
+
+## 12.EC2 Private Output
+
+<img width="769" height="160" alt="EC2 PVT OUTPUT" src="https://github.com/user-attachments/assets/1a399ea7-1c47-45d3-bd9d-e12a9bd2ed9a" />
+
+
+
 
 
 
