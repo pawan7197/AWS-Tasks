@@ -135,7 +135,29 @@ http://<ALB_DNS_Name>
 ```
 
 Refresh multiple times to confirm round-robin traffic distribution between EC2 instances.
-Summary
+## Images
+
+1.App1 Server
+<img width="1589" height="718" alt="Image" src="https://github.com/user-attachments/assets/ab193052-c780-47c4-b8bf-f653d5874bb8" />
+
+2. App1 output Image
+<img width="1586" height="706" alt="Image" src="https://github.com/user-attachments/assets/d976ee8c-ed99-4627-9f07-cb5930bc1fe7" />
+
+3. App2 server
+<img width="1585" height="704" alt="Image" src="https://github.com/user-attachments/assets/5447a2f2-e4c8-4da5-a5ec-c398664f6b47" />
+
+4. App2 output
+<img width="1588" height="708" alt="Image" src="https://github.com/user-attachments/assets/ea2c6f03-b62e-405d-8a1b-23a3dd343356" />
+
+5. AWS Target Group
+<img width="1599" height="702" alt="Image" src="https://github.com/user-attachments/assets/ace85ffa-83e9-4cc8-a77e-de3b88c6f0b0" />
+
+6. Application Loadbalancing
+<img width="1594" height="703" alt="Image" src="https://github.com/user-attachments/assets/8554ad9a-2550-464a-9d6e-64adbd313a0e" />
+
+7.Loadbalancer output
+<img width="1599" height="726" alt="Image" src="https://github.com/user-attachments/assets/6aa7c1cf-323d-41ff-bec9-18e56c66ee44" />
+
 
 Cleanup
 
@@ -148,4 +170,4 @@ Delete Target Group.
 
 Remove unused Security Groups and Key Pairs.
 
-✅ Lab Completed: You have successfully deployed EC2 instances, configured Apache with a sample app, and set up an Application Load Balancer to distribute traffic.
+✅ Lab Completed: Successfully deployed EC2 instances, configured Apache with a sample app, and set up an Application Load Balancer to distribute traffic.
