@@ -64,9 +64,13 @@ sudo yum install -y git
 sudo git clone https://github.com/Ai-TechNov/mario.git /var/www/html/
 ```
 Verify application is running: 
+
+Navigate to
 ```
-Navigate to http://<EC2_PublicIP> in a browser
+http://<EC2_PublicIP> 
 ```
+in a browser
+
 
 
 
