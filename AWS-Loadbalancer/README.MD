@@ -171,3 +171,13 @@ Delete Target Group.
 Remove unused Security Groups and Key Pairs.
 
 ✅ Lab Completed: Successfully deployed EC2 instances, configured Apache with a sample app, and set up an Application Load Balancer to distribute traffic.
+
+## Author: 
+
+**Pawan Kumar Kothapalli**
+
+**AWS Cloud Practioner**
+
+**Mail-Id:** pawankumarkothapalli22644@gmail.com
+
+**Linkedin-URL:** https://www.linkedin.com/in/pawan-kumar-kothapalli-17865b302/
