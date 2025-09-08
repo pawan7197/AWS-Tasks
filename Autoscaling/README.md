@@ -157,7 +157,9 @@ Verify ALB distributes traffic to new instances
 
 <img width="1586" height="723" alt="Image" src="https://github.com/user-attachments/assets/c07661fd-e886-4648-a13f-edafd44ae332" />
 
-Author:
+
+
+## Author:
 Pawan Kumar Kothapalli
 
 AWS Cloud Practioner
