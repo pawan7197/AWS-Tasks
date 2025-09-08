@@ -105,10 +105,63 @@ Monitor scaling activity and instance count in ASG Dashboard
 
 Verify ALB distributes traffic to new instances
 
-📌 Key Concepts Summary
-Feature	Purpose
-Launch Template	Defines how EC2 instances are launched
-Auto Scaling Group	Manages instance scaling automatically
-Target Group	Tracks instance health for Load Balancer
-Cooldown Period	Prevents rapid scaling in/out
-Health Checks	Determines if instance should be terminated
+## Images 
+1.Instances
+
+<img width="1592" height="707" alt="Image" src="https://github.com/user-attachments/assets/e89aa1d0-2061-48cf-94ff-309db3a2596e" />
+
+2.App1 Instance
+
+<img width="1592" height="733" alt="Image" src="https://github.com/user-attachments/assets/5a0872b6-b842-4f2c-a728-a3d6c09be7bf" />
+
+3. App2 Instance
+
+   <img width="1599" height="707" alt="Image" src="https://github.com/user-attachments/assets/520a50b7-1b61-4491-9e23-88e5d5cda174" />
+   
+4. Target Group
+
+<img width="1597" height="700" alt="Image" src="https://github.com/user-attachments/assets/ab536b14-9b2a-4774-965b-4b56880c75d4" />
+6. Load Balancer
+
+<img width="1596" height="692" alt="Image" src="https://github.com/user-attachments/assets/78aa57af-c1c3-4df5-bf5c-05f88deea7c6" />
+
+7. Launch template
+
+<img width="1599" height="721" alt="Image" src="https://github.com/user-attachments/assets/a60c2f50-46c2-4a91-8536-d9d6e1d4ccd1" />
+
+8. Auto Scaling
+
+<img width="1591" height="720" alt="Image" src="https://github.com/user-attachments/assets/d379c6c9-6e5f-4f60-b8bf-d96078fdcd23" />
+
+9. DNS Name copied
+
+<img width="1289" height="574" alt="Image" src="https://github.com/user-attachments/assets/e6ab69fa-a7b0-4d4a-b752-94a46a735442" />
+
+10. Output1
+
+<img width="1583" height="470" alt="Image" src="https://github.com/user-attachments/assets/9befe193-4ee8-4fcc-9cb9-8487226bcf2a" />
+
+11. Output2
+
+<img width="1599" height="520" alt="Image" src="https://github.com/user-attachments/assets/d6987e74-4f7b-4abc-a91c-ca552fcca83e" />
+
+12. Output3
+
+<img width="1431" height="350" alt="Image" src="https://github.com/user-attachments/assets/faecd3a7-ae84-43af-804e-8f34915c7aa1" />
+
+13. Instance terminated APP1
+
+<img width="1593" height="578" alt="Image" src="https://github.com/user-attachments/assets/a84cce3b-95ba-4b98-97c1-b0743e987c4f" />
+
+14. Instances added
+
+<img width="1586" height="723" alt="Image" src="https://github.com/user-attachments/assets/c07661fd-e886-4648-a13f-edafd44ae332" />
+
+Author:
+Pawan Kumar Kothapalli
+
+AWS Cloud Practioner
+
+Mail-Id: pawankumarkothapalli22644@gmail.com
+
+Linkedin-URL: https://www.linkedin.com/in/pawan-kumar-kothapalli-17865b302/
