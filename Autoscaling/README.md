@@ -149,7 +149,7 @@ Verify ALB distributes traffic to new instances
 
 <img width="1431" height="350" alt="Image" src="https://github.com/user-attachments/assets/faecd3a7-ae84-43af-804e-8f34915c7aa1" />
 
-13. Instance terminated APP1
+13. Instance terminated 
 
 <img width="1593" height="578" alt="Image" src="https://github.com/user-attachments/assets/a84cce3b-95ba-4b98-97c1-b0743e987c4f" />
 
