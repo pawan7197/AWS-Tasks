@@ -65,7 +65,35 @@ After enabling static hosting, the Endpoint URL will appear in the bucket settin
 
 http://ajas3bucket2025web.s3-website-us-east-1.amazonaws.com
 
+## Images
 
+1. Create S3 Bucket
+
+<img width="1576" height="734" alt="Image" src="https://github.com/user-attachments/assets/3c7674d1-b8f7-4560-bc2b-03284b14d17a" />
+
+2. Index.html File upload
+
+<img width="1599" height="712" alt="Image" src="https://github.com/user-attachments/assets/310c4e99-3429-43d0-9cd8-f09d7a6164a7" />
+
+3. File uploaded
+
+<img width="1580" height="708" alt="Image" src="https://github.com/user-attachments/assets/bc6df53d-fbc3-4cd8-a13c-b6dbc12d5358" />
+
+4. Enable webhosting
+
+<img width="1580" height="693" alt="Image" src="https://github.com/user-attachments/assets/5f3eb891-7581-48fd-adc1-be2edbe4c53c" />
+
+5. Bucket policy
+
+<img width="1591" height="729" alt="Image" src="https://github.com/user-attachments/assets/d7a3b496-b0b1-4864-bf9e-a71f105e5553" />
+
+6. Bucket End point
+
+<img width="1599" height="618" alt="Image" src="https://github.com/user-attachments/assets/8bf54250-5ad0-400b-acb1-bd0925206dcb" />
+
+7. Output
+
+<img width="1499" height="528" alt="Image" src="https://github.com/user-attachments/assets/fe1efbea-bc68-4602-8688-91b91506ad30" />
 👉 Visit the URL to see your website live.
 
 ✅ Conclusion
