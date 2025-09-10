@@ -100,3 +100,12 @@ http://ajas3bucket2025web.s3-website-us-east-1.amazonaws.com
 
 Using AWS S3 Static Website Hosting provides a fast, simple, and cost-effective way to host static websites without managing web servers.
 
+Author:
+Pawan Kumar Kothapalli
+
+AWS Cloud Practioner
+
+Mail-Id: pawankumarkothapalli22644@gmail.com
+
+Linkedin-URL: https://www.linkedin.com/in/pawan-kumar-kothapalli-17865b302/
+
